@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+/* 	background-color: rgb(243, 243, 243); */
+background-color:white;
+
+}
+
+.navbar{
+  background: rgb(254, 78, 78);
+  height: 90px;
+}
+
+.offcanvas{
+	background-color: #ffffff;
+}
